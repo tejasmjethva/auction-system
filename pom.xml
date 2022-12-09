@@ -30,7 +30,7 @@
 	</repositories>
 
 	<properties>
-		<spring-version>3.1.2.RELEASE</spring-version>
+		<spring-version>6.0.0</spring-version>
 		<spring-security-version>3.1.0.RELEASE</spring-security-version>
 		<org.quartz-scheduler>2.1.5</org.quartz-scheduler>
 		<spring.test.version>3.1.2.RELEASE</spring.test.version>
